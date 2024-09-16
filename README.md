@@ -1,4 +1,4 @@
- --- Task ---
+# --- Task ---
 
 
 Le test consiste à :
@@ -20,7 +20,7 @@ Quelques conseils :
 
 
 
---- How I did it ---
+# --- How I did it ---
 
 
 - Created folder and python file
@@ -35,7 +35,7 @@ Quelques conseils :
 
 
 
---- How to use it ---
+# --- How to use it ---
 
 
 Go to : 
